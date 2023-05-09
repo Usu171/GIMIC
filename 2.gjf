@@ -1,0 +1,12 @@
+%chk=1.chk
+%nprocshared=6
+%mem=150MW
+# UB3LYP/6-311G* gfprint pop=full Int=NoBasisTransform IOp(10/33=2) NMR
+
+1
+
+0 1
+Your molecules
+
+
+

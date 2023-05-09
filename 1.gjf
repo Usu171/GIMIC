@@ -1,0 +1,12 @@
+%chk=1.chk
+%nprocshared=6
+%mem=150MW
+# B3LYP/6-311G* Int=NoBasisTransform IOp(10/33=2) NMR
+
+1
+
+0 1
+Your molecules
+
+
+
